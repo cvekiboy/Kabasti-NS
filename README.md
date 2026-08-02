@@ -1,4 +1,4 @@
-# Kabasti-SU
+# Kabasti-NS
 
 <p align="center">
   <img src="images/frontpic.png" alt="frontpic" width="371">

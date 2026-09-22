@@ -14,6 +14,30 @@ Application displaying the locations and dates for the collection and removal of
 + Fourlingual support: Serbian (Cyrillic / Latin), Hungarian, Slovakian and English 
 
 Note: This is an independent user utility and is not an official application of the local self-government or the public utility company.
+
+# DOWNLOADS
+
+<p align="center">
+
+  <a href="https://play.google.com/store/apps/details?id=rs.kabasti.novisad&hl=sr" target="_blank">
+    <img src="images/GooglePlay_Badge_Serbian.svg" alt="Преузмите са Google Play-а" height="55"/>
+  </a>
+&ensp; &ensp; &ensp; &ensp;
+  <a href="https://apps.microsoft.com/detail/9n13dsf1f4p1?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+    <img src="https://get.microsoft.com/images/sr%20dark.svg" alt="Преузмите са Microsoft-а" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <img src="images/release_link.gif" alt="ДРУГИ ТИПОВИ ИНСТАЛАЦИЈА">
+  </a>
+</p>
+
+## WARNING
+
+To completely remove all user settings from an MS Store application after uninstallation, follow [these steps](https://gist.github.com/cvekiboy/7d2b4a9ee7b9d6554e152b190b50e09e)!
+
 <details>
   <summary>🇷🇸 СРБ</summary>
 Апликација приказа позиција и датума прикупљања и одвожења кабастог отпада од стране <a href="https://www.cistocans.rs">Јавног комунланог предузећа</a> на територији града Новог Сада.

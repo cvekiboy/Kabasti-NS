@@ -16,11 +16,11 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 
 | Верзија | Подржано |
 | ------- | -------- |
-| v0.1.x  | ✅ Да    |
+| v1.0.0  | ✅ Да    |
 
 ### Архитектура и безбедносни профил
 Kabasti-NS је пројектован као потпуно независна апликација која ради у офлајн режиму.
-* **Без серверске базе:** Главна апликација не поседује екстерне мрежне АПИ сервисе, базе података корисника, форме за регистрацију нити механизме за праћење.
+* **Без серверске базе:** Мрежне активности главне апликације строго су ограничене на екстерне API сервисе за праћење анонимне статистике (аналитике). Апликација не поседује базе података корисника, форме за регистрацију нити механизме за личну идентификацију.
 * **Локална обрада података:** Све географске векторске мапе (.pmtiles) и распореди (GeoJSON) извршавају се потпуно изоловано (sandboxed) унутар локалне меморије самог уређаја корисника.
 * **Безбедност меморије:** Позадинско окружење је компајлирано помоћу високо оптимизованог и меморијски безбедног {РЕДИГОВАНО} компајлера, чиме се елиминишу уобичајени пропусти у вези са нарушавањем меморије (memory corruption exploits).
 
@@ -45,11 +45,11 @@ Bezbednosne ispravke se aktivno obezbeđuju za sledeće verzije softvera:
 
 | Verzija | Podržano |
 | ------- | -------- |
-| v0.1.x  | ✅ Da    |
+| v1.0.0  | ✅ Da    |
 
 ### Arhitektura i bezbednosni profil
 Kabasti-NS je projektovan kao potpuno nezavisna aplikacija koja radi u oflajn režimu.
-* **Bez serverske baze:** Glavna aplikacija ne poseduje eksterne mrežne API servise, baze podataka korisnika, forme za registraciju niti mehanizme za praćenje.
+* **Bez serverske baze:** Mrežne aktivnosti glavne aplikacije strogo su ograničene na eksterne API servise za praćenje anonimne statistike (analitike). Aplikacija ne poseduje baze podataka korisnika, forme za registraciju niti mehanizme za ličnu identifikaciju.
 * **Lokalna obrada podataka:** Sve geografske vektorske mape (.pmtiles) i rasporedi (GeoJSON) izvršavaju se potpuno izolovano (sandboxed) unutar lokalne memorije samog uređaja korisnika.
 * **Bezbednost memorije:** Pozadinsko okruženje je kompajlirano pomoću visoko optimizovanog i memorijski bezbednog {REDIGOVANO} kompajlera, čime se eliminišu uobičajeni propusti u vezi sa narušavanjem memorije (memory corruption exploits).
 
@@ -74,11 +74,11 @@ A biztonsági frissítések aktívan biztosítottak a következő szoftververzi�
 
 | Verzió  | Támogatott |
 | ------- | ---------- |
-| v0.1.x  | ✅ Igen    |
+| v1.0.0  | ✅ Igen    |
 
 ### Architektúra és biztonsági profil
 A Kabasti-NS egy teljesen független, offline működésű alkalmazásként lett kifejlesztve.
-* **Nincs felhőalapú háttérrendszer:** A központi alkalmazás nem rendelkezik távoli webes API-kkal, külső felhasználói adatbázisokkal, regisztrációs űrlapokkal vagy követési mechanizmusokkal.
+* **Szerveroldali adatbázis nélkül:** A fő alkalmazás hálózati tevékenysége szigorúan az anonim statisztikák (analitika) követésére szolgáló külső API szolgáltatásokra korlátozódik. Az alkalmazás nem rendelkezik felhasználói adatbázisokkal, regisztrációs űrlapokkal vagy személyes azonosításra alkalmas mechanizmusokkal.
 * **Helyi adatfeldolgozás:** Minden földrajzi vektoros térkép (.pmtiles) és menetrend (GeoJSON) teljesen izoláltan (sandboxed) fut a felhasználó eszközének helyi memóriájában.
 * **Memóriabiztonság:** A háttérrendszer a rendkívül optimalizált és memóriabiztos {SZERKESZTETT} fordítóval van lefordítva, ami kiküszöböli a gyakori memóriasérülési réseket (memory corruption exploits).
 
@@ -103,11 +103,11 @@ Bezpečnostné aktualizácie sa aktívne poskytujú pre tieto línie vydaní:
 
 | Verzia  | Podporované |
 | ------- | ----------- |
-| v0.1.x  | ✅ Yes      |
+| v1.0.0  | ✅ Yes      |
 
 ### Architektonický a bezpečnostný profil
 Aplikácia Kabasti-NS je navrhnutá ako plne nezávislá aplikácia fungujúca primárne v režime offline.
-* **Žiadne cloudové backendy:** Jadro aplikácie neobsahuje žiadne vzdialené webové API, externé databázy používateľov, registračné formuláre ani mechanizmy sledovania. 
+* **Žiadne cloudové databáza:** Sieťová aktivita hlavnej aplikácie je striktne obmedzená na externé služby API určené na sledovanie anonymnej štatistiky (analytiky). Aplikácia nedisponuje používateľskými databázami, registračnými formulármi ani mechanizmami na osobnú identifikáciu. 
 * **Lokálne spracovanie dát:** Všetky geografické vektorové mriežky (.pmtiles) a harmonogramy (GeoJSON) fungujú v úplne izolovanom prostredí (sandboxe) v rámci lokálnej pamäte klientskeho zariadenia.
 * **Bezpečnosť pamäte:** Základné prostredie obalu je kompilované s vysoko optimalizovaným, pamäťovo bezpečným {UTAJENÉ} kompilátorom, čím sa eliminujú bežné chyby poškodenia pamäte.
 
@@ -132,11 +132,11 @@ Security updates are actively provided for the following release tracks:
 
 | Version | Supported |
 | ------- | --------- |
-| v0.1.x  | ✅ Yes    |
+| v1.0.0  | ✅ Yes    |
 
 ### Architecture & Security Profile
 Kabasti-NS is engineered as a fully independent, offline-first application. 
-* **Zero Cloud Backends:** The core application features no remote web APIs, external user databases, registration forms, or tracking mechanics. 
+* **Zero Cloud Database:** The main application's network activity is strictly limited to external API services for tracking anonymous usage statistics (analytics). The application does not possess user databases, registration forms, or any personal identification mechanisms. 
 * **Local Data Ingestion:** All geographical vector grids (.pmtiles) and schedules (GeoJSON) run completely sandboxed inside the client device's local memory footprint.
 * **Memory Safety:** The core wrapper environment is compiled with the highly optimized, memory-safe {REDACTED} compiler backend, eliminating common memory corruption exploits.
 

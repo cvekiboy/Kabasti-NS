@@ -16,7 +16,7 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 
 | Верзија | Подржано |
 | ------- | -------- |
-| v1.0.0  | ✅ Да    |
+| v1.0.1  | ✅ Да    |
 
 ### Архитектура и безбедносни профил
 Kabasti-NS је пројектован као потпуно независна апликација која ради у офлајн режиму.
@@ -45,7 +45,7 @@ Bezbednosne ispravke se aktivno obezbeđuju za sledeće verzije softvera:
 
 | Verzija | Podržano |
 | ------- | -------- |
-| v1.0.0  | ✅ Da    |
+| v1.0.1  | ✅ Da    |
 
 ### Arhitektura i bezbednosni profil
 Kabasti-NS je projektovan kao potpuno nezavisna aplikacija koja radi u oflajn režimu.
@@ -74,7 +74,7 @@ A biztonsági frissítések aktívan biztosítottak a következő szoftververzi�
 
 | Verzió  | Támogatott |
 | ------- | ---------- |
-| v1.0.0  | ✅ Igen    |
+| v1.0.1  | ✅ Igen    |
 
 ### Architektúra és biztonsági profil
 A Kabasti-NS egy teljesen független, offline működésű alkalmazásként lett kifejlesztve.
@@ -103,7 +103,7 @@ Bezpečnostné aktualizácie sa aktívne poskytujú pre tieto línie vydaní:
 
 | Verzia  | Podporované |
 | ------- | ----------- |
-| v1.0.0  | ✅ Yes      |
+| v1.0.1  | ✅ Yes      |
 
 ### Architektonický a bezpečnostný profil
 Aplikácia Kabasti-NS je navrhnutá ako plne nezávislá aplikácia fungujúca primárne v režime offline.
@@ -132,7 +132,7 @@ Security updates are actively provided for the following release tracks:
 
 | Version | Supported |
 | ------- | --------- |
-| v1.0.0  | ✅ Yes    |
+| v1.0.1  | ✅ Yes    |
 
 ### Architecture & Security Profile
 Kabasti-NS is engineered as a fully independent, offline-first application. 

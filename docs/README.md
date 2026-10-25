@@ -1,15 +1,18 @@
 # Kabasti-NS
 
 <p align="center">
-  <img src="images/frontpic.png" alt="frontpic" width="371">
+  <img src="images/Kabasti-NS_hero_full.svg" width="100%" alt="Kabasti-NS">
 </p>
 
 Application displaying the locations and dates for the collection and removal of bulky waste by the [Public Utility Company](https://www.cistocans.rs) in the territory of the city of Novi Sad.
 
-***Features***:
+Main feature: **SET & FORGET**
+
+***Other functionalities***:
 + Offline/Online installation and usage
 + Followings filter
 + Reminder notifications
++ Possibility to set notification of the publication of a new schedule
 + Fullscreen toggle (F11/Esc)
 + Fourlingual support: Serbian (Cyrillic / Latin), Hungarian, Slovakian and English 
 
@@ -42,10 +45,13 @@ To completely remove all user settings from an MS Store application after uninst
   <summary>🇷🇸 СРБ</summary>
 Апликација приказа позиција и датума прикупљања и одвожења кабастог отпада од стране <a href="https://www.cistocans.rs">Јавног комунланог предузећа</a> на територији града Новог Сада.
 
-***Функције***:
+Главнa карактеристика: **ПОСТАВИ и ЗАБОРАВИ**
+
+***Остале функције***:
 + Офлајн/онлајн инсталација и коришћење
 + Филтер праћења
 + Подсетници у виду обавештења
++ Могућност обавештавања о објави новог плана
 + Пребацивање преко целог екрана (F11/Esc)
 + Четворојезична подршка: Српски (Ћирилица / Латиница), Мађарски, Словачки и Енглески 
 
@@ -55,10 +61,13 @@ To completely remove all user settings from an MS Store application after uninst
   <summary>🇷🇸 SRB</summary>
 Apilikacija prikaza pozicija i datuma prikupljanja i odvoženja kabastog otpada od strane <a href="https://www.cistocans.rs">Javnog komunalnog preduzeća</a> na teritoriji grada Novog Sada.
 
-***Funkcije***:
+Glavna karаkteristika: **POSTAVI i ZABORAVI**
+
+***Ostale funkcije***:
 + Oflajn/onlajn instalacija i korišćenje
 + Filter praćenja
 + Podsetnici u vidu obaveštenja
++ Mugućnost obaveštavanja o objavi novog plana
 + Prebacivanje preko celog ekrana (F11/Esc)
 + Četvorojezična podrška: Srpski (Ćirilica / Latinica), Mađarski, Slovački i Engleski 
 
@@ -68,10 +77,13 @@ Napomena: Ovo je nezavisna korisnička alatka i nije zvanična aplikacija lokaln
   <summary>🇭🇺 HU</summary>
 Alkalmazás, amely megjeleníti a lombtalanítási és a nagyméretű hulladékgyűjtési helyszíneket és időpontokat a <a href="https://www.cistocans.rs">Közműszolgáltató Vállalat</a> által Újvidék Város területén.
 
-***Funkciók***:
+Fő funkció: **BEÁLLÍTÁS és FELEJTÉS**
+
+***Egyéb funkciók***:
 + Offline/online telepítés és használat
 + Nyomon követési szűrő
 + Értesítési emlékeztetők
++ Lehetőség az új terv közzétételéről szóló értesítésre
 + Teljes képernyős váltás (F11/Esc)
 + Négynyelvű támogatás: Szerb (cirill / latin), Magyar, Szlovák és Angol 
 
@@ -81,10 +93,13 @@ Megjegyzés: Ez egy független felhasználói segédeszköz, és nem a helyi ön
   <summary>🇸🇰 SK</summary>
 Aplikácia zobrazujúca miesta a dátumy zberu a odvozu veľkoobjemového odpadu <a href="https://www.cistocans.rs">Verejným komunálnym podnikom</a> na území mesta Nový Sad.
 
-***Funkcie***:
+Hlavná funkcia: **NASTAVIŤ a ZABUDNÚŤ**
+
+***Ďalšie funkcie***:
 + Offline/Online inštalácia a používanie
 + Filter sledovaných položiek
 + Pripomienkové notifikácie
++ Možnosť oznámenia o zverejnení nového plánu
 + Prepnutie na celú obrazovku (F11/Esc)
 + Štvorjazyčná podpora: srbčina (cyrilika / latinka), maďarčina, slovenčina a angličtina
 

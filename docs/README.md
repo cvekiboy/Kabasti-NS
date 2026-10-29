@@ -22,7 +22,7 @@ Note: This is an independent user utility and is not an official application of 
 
 <p align="center">
 
-  <a href="https://github.com/cvekiboy/Kabasti-SU/blob/main/docs/thank_you_Google_Play.md" target="_blank">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/blob/main/docs/thank_you_Google_Play.md" target="_blank">
     <img src="images/GooglePlay_Badge_Serbian.svg" alt="Преузмите са Google Play-а" height="55"/>
   </a>
 &ensp; &ensp; &ensp; &ensp;

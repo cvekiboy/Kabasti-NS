@@ -60,7 +60,13 @@ sudo apt autoremove
 
 ### 💻 macOS инсталација
 
-У току је припреме!
+Пратите ове једноставне кораке да бисте безбедно заобишли упозорење и инсталирали апликацију:  
+1. **Преузимање и отварање**: Преузети .dmg фајл са `Releases` странице, кликните двапут да га отворите, а затим превуците апликацију у `Applications` фолдер.
+2. **Прво покретање (Немојте кликнути двапут)**: Отворите `Applications` фолдер, држите тастер Control на тастатури и кликните (или кликните десним тастером миша) на иконицу апликације.
+3. **Изаберите Open**: Из менија који се појави изаберите опцију `Open`.
+4. **Потврдите**: Појавиће се сигурносни прозор. Kликните још једном на `Open` да потврдите.  
+
+Апликација је сада сачувана као безбедан изузетак на вашем Mac-у, па ћете убудуће моћи да је отварате нормално, дуплим кликом!
 
 ### 📱 Android инсталација
 
@@ -132,7 +138,13 @@ sudo apt autoremove
 
 ### 💻 macOS instalacija
 
-U toku je pripreme!
+Pratite ove jednostavne korake da biste bezbedno zaobišli upozorenje i instalirali aplikaciju:  
+1. **Preuzimanje i otvaranje**: Preuzeti .dmg fajl sa `Releases` stranice, kliknite dvaput da ga otvorite, a zatim prevucite aplikaciju u `Applications` folder.
+2. **Prvo pokretanje (Nemojte kliknuti dvaput)**: Otvorite `Applications` folder, držite taster `Control` na tastaturi i kliknite (ili kliknite desnim tasterom miša) na ikonicu aplikacije.
+3. **Izaberite Open**: Iz menija koji se pojavi izaberite opciju `Open`.
+4. **Potvrdite**: Pojaviće se sigurnosni prozor. Kliknite još jednom na `Open` da potvrdite.  
+
+Aplikacija je sada sačuvana kao bezbedan izuzetak na vašem Mac-u, pa ćete ubuduće moći da je otvarate normalno, duplim klikom!
 
 ### 📱 Android instalacija
 
@@ -204,7 +216,13 @@ sudo apt autoremove
 
 ### 💻 macOS telepítés
 
-Előkészület alatt!
+Kövesd az alábbi egyszerű lépéseket a figyelmeztetés biztonságos megkerüléséhez és a program telepítéséhez:  
+1. **Letöltés és megnyitás**: Töltsd le a .dmg fájlt a `Releases` oldalról, kattints rá duplán a megnyitáshoz, majd húzd át az applikációt az `Applications` (Alkalmazások) mappába.
+2. **Első indítás (Ne kattints rá duplán!)**: Nyisd meg az `Applications` mappát, tartsd lenyomva a `Control` billentyűt a billentyűzeteden, és kattints (vagy kattints jobb gombbal) az app ikonjára.
+3. **Megnyitás kiválasztása**: A felugró menüből válaszd az `Open` (Megnyitás) lehetőséget.
+4. **Megerősítés**: Megjelenik egy biztonsági párbeszédpanel. Kattints még egyszer az `Open` (Megnyitás) gombra a megerősítéshez.  
+
+A rendszer mostantól biztonságos kivételként menti az appot a Mac-eden, így a jövőben már a szokásos módon, dupla kattintással is meg tudod majd nyitni!
 
 ### 📱 Android telepítés
 
@@ -276,7 +294,13 @@ sudo apt autoremove
 
 ### 💻 macOS inštalácia
 
-Prebieha príprava!
+Ak chcete toto varovanie bezpečne obísť a aplikáciu nainštalovať, postupujte podľa týchto jednoduchých krokov:  
+1. **Stiahnutie a otvorenie**: Stiahnite si súbor .dmg zo stránky `Releases`, dvakrát naň kliknite pre otvorenie a presuňte aplikáciu do priečinka `Applications` (Aplikácie).
+2. **Prvé spustenie (Neklikajte dvakrát)**: Prejdite do priečinka `Applications`, podržte stlačený kláves `Control` na klávesnici a kliknite (alebo kliknite pravým tlačidlom myši) na ikonu aplikácie.
+3. **Vyberte Open**: V ponuke, ktorá sa zobrazí, vyberte možnosť `Open` (Otvoriť).
+4. **Potvrďte**: Zobrazí sa bezpečnostné okno. Kliknite poslednýkrát na `Open` (Otvoriť) pre potvrdenie.  
+
+Aplikácia je teraz na vašom Macu uložená ako bezpečná výnimka a v budúcnosti ju už budete môcť otvárať úplne normálne dvojitým kliknutím!
 
 ### 📱 Android inštalácia
 
@@ -348,7 +372,13 @@ sudo apt autoremove
 
 ### 💻 macOS Installation
 
-In preparation!
+Follow these simple steps to safely bypass the warning and install the app:  
+1. **Download and Open**: Download the .dmg file from the Releases page, double-click to open it, and drag your app into the Applications folder.
+2. **First-Time Launch (Do not double-click)**: Go to your Applications folder, hold down the Control key on your keyboard, and click (or right-click) the app icon.
+3. **Select Open**: Click Open from the menu that pops up.
+4. **Confirm**: A security dialog box will appear. Click Open one last time to confirm.  
+
+The app is now saved as a safe exception on your Mac, and you can open it normally by double-clicking in the future!
 
 ### 📱 Android Installation
 

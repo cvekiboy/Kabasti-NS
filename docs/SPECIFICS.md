@@ -35,6 +35,12 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 
 Кликните на **"More info"** (Додатне информације), а затим на дугме **"Run anyway"** (Покрени ипак).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 🐧 Linux инсталација
 
 Било који тип Kabasti-NS Linux инсталације такође из системске касете контролише Подсетнике и Обавештења.
@@ -58,6 +64,12 @@ sudo apt autoremove
 ```
 `Познате грешке:` Након надоградње оперативног система, аутостарт функција може бити деактивирана, те је потребно апликацију ручно покренути како би се она поново активирала (проверити системку касету).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 💻 macOS инсталација
 
 Пратите ове једноставне кораке да бисте безбедно заобишли упозорење и инсталирали апликацију:  
@@ -80,6 +92,12 @@ sudo apt autoremove
 > Изаберите извор: Додирните апликацију коју сте користили за преузимање (нпр. Chrome или Моје датотеке).  
 > Дозволите инсталацију: Укључите прекидач поред опције **Дозволи из овог извора** (Allow from this source).  
 > Покрените инсталацију: Вратите се на преузету .APK датотеку и поново покрените инсталацију.  
+
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
 
 ### 📱 iOS инсталација
 
@@ -119,6 +137,12 @@ Pošto je aplikacija nova i nezavisna, postoji mogućnost da će Windows u toku 
 
 Кliknite na **"More info"** (Dodatne informacije), a zatim na dugme **"Run anyway"** (Pokreni ipak).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 🐧 Linux instalacija
 
 Bilo koji tip Кabasti-NS Linux instalacije takođe iz sistemske kasete kontroliše Podsetnike i Obaveštenja.
@@ -142,6 +166,12 @@ sudo apt autoremove
 ```
 `Poznate greške:` Nakon nadogradnje operativnog sistema, autostart funkcija može biti deaktivirana, te je potrebno aplikaciju ručno pokrenuti kako bi se ona ponovo aktivirala (proveriti sistemku kasetu).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 💻 macOS instalacija
 
 Pratite ove jednostavne korake da biste bezbedno zaobišli upozorenje i instalirali aplikaciju:  
@@ -151,6 +181,12 @@ Pratite ove jednostavne korake da biste bezbedno zaobišli upozorenje i instalir
 4. **Potvrdite**: Pojaviće se sigurnosni prozor. Kliknite još jednom na `Open` da potvrdite.  
 
 Aplikacija je sada sačuvana kao bezbedan izuzetak na vašem Mac-u, pa ćete ubuduće moći da je otvarate normalno, duplim klikom!
+
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
 
 ### 📱 Android instalacija
 
@@ -203,6 +239,12 @@ Mivel az alkalmazás új és független, a telepítés során előfordulhat, hog
 
 Kattintson a **"További információk"** (More info) elemre, majd a **"Futtatás mindenképpen"** (Run anyway) gombra.
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 🐧 Linux telepítés
 
 A Kabasti-NS bármilyen Linux-telepítési típusa szintén a tálcáról (értesítési területről) vezérli az Emlékeztetőket és az Értesítéseket.
@@ -226,6 +268,12 @@ sudo apt autoremove
 ```
 `Ismert problémák:` Az operációs rendszer frissítése után az automatikus indítás (autostart) funkció deaktiválódhat, ezért az alkalmazást manuálisan kell elindítani az újbóli aktiváláshoz (ellenőrizze a tálcát).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 💻 macOS telepítés
 
 Kövesd az alábbi egyszerű lépéseket a figyelmeztetés biztonságos megkerüléséhez és a program telepítéséhez:  
@@ -235,6 +283,12 @@ Kövesd az alábbi egyszerű lépéseket a figyelmeztetés biztonságos megkerü
 4. **Megerősítés**: Megjelenik egy biztonsági párbeszédpanel. Kattints még egyszer az `Open` (Megnyitás) gombra a megerősítéshez.  
 
 A rendszer mostantól biztonságos kivételként menti az appot a Mac-eden, így a jövőben már a szokásos módon, dupla kattintással is meg tudod majd nyitni!
+
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
 
 ### 📱 Android telepítés
 
@@ -287,6 +341,12 @@ Keďže ide o novú a nezávislú aplikáciu, počas inštalácie môže systém
 
 Kliknite na položku **„Ďalšie informácie“** (More info) a potom na tlačidlo **„Napriek tomu spustiť“** (Run anyway).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 🐧 Linux inštalácia
 
 Akékoľvek typy inštalácie Kabasti-NS pre Linux tiež ovládajú Pripomienky a Upozornenia z oznamovacej oblasti (systémovej lišty).
@@ -310,6 +370,12 @@ sudo apt autoremove
 ```
 `Známe problémy:` Po aktualizácii operačného systému môže byť funkcia automatického spustenia (autostart) deaktivovaná, preto je potrebné aplikáciu manuálne spustiť, aby sa opätovne aktivovala (skontrolujte systémovú lištu / oznamovaciu oblasť).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 💻 macOS inštalácia
 
 Ak chcete toto varovanie bezpečne obísť a aplikáciu nainštalovať, postupujte podľa týchto jednoduchých krokov:  
@@ -319,6 +385,12 @@ Ak chcete toto varovanie bezpečne obísť a aplikáciu nainštalovať, postupuj
 4. **Potvrďte**: Zobrazí sa bezpečnostné okno. Kliknite poslednýkrát na `Open` (Otvoriť) pre potvrdenie.  
 
 Aplikácia je teraz na vašom Macu uložená ako bezpečná výnimka a v budúcnosti ju už budete môcť otvárať úplne normálne dvojitým kliknutím!
+
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
 
 ### 📱 Android inštalácia
 
@@ -371,6 +443,12 @@ Since the application is new and independent, during the installation, Windows m
 
 Click on **"More info"**, and then click the **"Run anyway"** button.
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 🐧 Linux Installation
 
 Any type of Kabasti-NS Linux installation also controls Reminders and Notifications from the system tray.
@@ -394,9 +472,27 @@ sudo apt autoremove
 ```
 `Known Issues:` Following an OS upgrade, autostart may become disabled, requiring you to manually start the application to reactivate it (check the system tray).
 
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
+
 ### 💻 macOS Installation
 
-In preparation!
+Follow these simple steps to safely bypass the warning and install the application:   
+1. **Download and Open**: Download the .dmg file from the `Releases` page, double-click to open it, and then drag the application into your `Applications` folder.
+2. **First Launch (Do not double-click)**: Open the `Applications` folder, hold down the Control key on your keyboard, and click (or right-click) on the application icon.
+3. **Select Open**: Choose the `Open` option from the menu that appears.
+4. **Confirm**: A security prompt will appear. Click `Open` once more to confirm.  
+
+The application is now saved as a trusted exception on your Mac, so you will be able to open it normally—by double-clicking—from now on!
+
+<div align="right">
+  <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
+    <kbd>🔙 Back to Realase</kbd>
+  </a>
+</div>
 
 ### 📱 Android Installation
 

@@ -37,7 +37,7 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Назад на Realase</kbd>
   </a>
 </div>
 
@@ -66,7 +66,7 @@ sudo apt autoremove
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Назад на Realase</kbd>
   </a>
 </div>
 
@@ -95,7 +95,7 @@ sudo apt autoremove
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Назад на Realase</kbd>
   </a>
 </div>
 
@@ -139,7 +139,7 @@ Pošto je aplikacija nova i nezavisna, postoji mogućnost da će Windows u toku 
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Nazad na Realase</kbd>
   </a>
 </div>
 
@@ -168,7 +168,7 @@ sudo apt autoremove
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Nazad na Realase</kbd>
   </a>
 </div>
 
@@ -184,7 +184,7 @@ Aplikacija je sada sačuvana kao bezbedan izuzetak na vašem Mac-u, pa ćete ubu
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Nazad na Realase</kbd>
   </a>
 </div>
 
@@ -241,7 +241,7 @@ Kattintson a **"További információk"** (More info) elemre, majd a **"Futtatá
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Vissza a Realase</kbd>
   </a>
 </div>
 
@@ -270,7 +270,7 @@ sudo apt autoremove
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Vissza a Realase</kbd>
   </a>
 </div>
 
@@ -286,7 +286,7 @@ A rendszer mostantól biztonságos kivételként menti az appot a Mac-eden, így
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Vissza a Realase</kbd>
   </a>
 </div>
 
@@ -343,7 +343,7 @@ Kliknite na položku **„Ďalšie informácie“** (More info) a potom na tlač
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Späť na Realase</kbd>
   </a>
 </div>
 
@@ -372,7 +372,7 @@ sudo apt autoremove
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Späť na Realase</kbd>
   </a>
 </div>
 
@@ -388,7 +388,7 @@ Aplikácia je teraz na vašom Macu uložená ako bezpečná výnimka a v budúcn
 
 <div align="right">
   <a href="https://github.com/cvekiboy/Kabasti-NS/releases/latest">
-    <kbd>🔙 Back to Realase</kbd>
+    <kbd>🔙 Späť na Realase</kbd>
   </a>
 </div>
 
